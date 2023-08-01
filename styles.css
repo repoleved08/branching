@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #eee;
+    top: 50%;
+    right: 50%;
+    justify-content: center;
+}
+#btn{
+    background-color: rgb(106, 196, 106);
+    border: none;
+    color: #eee;
+    height: 40px;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 6px;
+}
